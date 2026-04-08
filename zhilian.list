@@ -3,59 +3,54 @@
 
 # audiences
 DOMAIN-SUFFIX,audiences.me
-DOMAIN-SUFFIX,t.audiences.me
-DOMAIN-SUFFIX,tracker.cinefiles.info
+DOMAIN,t.audiences.me
+DOMAIN,tracker.cinefiles.info
 # hhanclub
 DOMAIN-SUFFIX,hhanclub.top
 DOMAIN-SUFFIX,hhan.club
+DOMAIN,tracker.hhanclub.net
 # keepfrds
-DOMAIN-SUFFIX,pt.keepfrds.com
-DOMAIN-SUFFIX,tracker.keepfrds.com
+DOMAIN,pt.keepfrds.com
+DOMAIN,tracker.keepfrds.com
 # hdsky
 DOMAIN-SUFFIX,hdsky.me
-DOMAIN-SUFFIX,tracker.hdsky.me
+DOMAIN,tracker.hdsky.me
 # ourbits
 DOMAIN-SUFFIX,ourbits.club
 # hdhome
 DOMAIN-SUFFIX,hdhome.org
-DOMAIN-SUFFIX,t.hdhome.org
+DOMAIN,t.hdhome.org
 # pterclub
 DOMAIN-SUFFIX,pterclub.com
-DOMAIN-SUFFIX,tracker.pterclub.com
+DOMAIN,tracker.pterclub.com
+DOMAIN,tracker.pterclub.net
 # springsunday
 DOMAIN-SUFFIX,springsunday.net
-DOMAIN-SUFFIX,on.springsunday.net
+DOMAIN,on.springsunday.net
 # chdbits
 DOMAIN-SUFFIX,ptchdbits.co
-DOMAIN-SUFFIX,tracker.ptchdbits.co
-DOMAIN-SUFFIX,tracker.rainbowisland.co
+DOMAIN,tracker.ptchdbits.co
+DOMAIN,tracker.rainbowisland.co
 DOMAIN-SUFFIX,chdbits.xyz
 # totheglory
 DOMAIN-SUFFIX,totheglory.im
-DOMAIN-SUFFIX,tracker.totheglory.im
+DOMAIN,tracker.totheglory.im
 # m-team
-DOMAIN-SUFFIX,kp.m-team.cc
-DOMAIN-SUFFIX,tracker.m-team.cc
-DOMAIN-SUFFIX,ipv6-tracker.m-team.cc
+DOMAIN,kp.m-team.cc
+DOMAIN,tracker.m-team.cc
+DOMAIN,ipv6-tracker.m-team.cc
 # star-space
 DOMAIN-SUFFIX,star-space.net
-# fsm
-DOMAIN-SUFFIX,nextpt.net
-DOMAIN-SUFFIX,connects.icu
 # dmhy
-DOMAIN-SUFFIX,daydream.dmhy.best
-# leaves.red
-DOMAIN-SUFFIX,leaves.red
-DOMAIN-SUFFIX,tracker.leaves.red
-DOMAIN-SUFFIX,tracker2.leaves.red
-DOMAIN-SUFFIX,tracker3.leaves.red
+DOMAIN,daydream.dmhy.best
 # hdfans
 DOMAIN-SUFFIX,hdfans.org
 # pttime
-DOMAIN-SUFFIX,www.pttime.org
-# lemonhd
-DOMAIN-SUFFIX,ilovelemonhd.me
-DOMAIN-SUFFIX,lemonhd.club
+DOMAIN,www.pttime.org
+#piggo
+DOMAIN,tracker.piggo.me
+#ubits
+DOMAIN,t.ubits.club
 # 其他
 DOMAIN-SUFFIX,pc528.net
 DOMAIN-SUFFIX,ops.ci
